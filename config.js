@@ -1,7 +1,7 @@
 module.exports = {
 	// for repo: danamag/stremio-addons-list
 	"repository": "stremio-addons-list",
-	"author": "danamag",
+	"author": "bahshoot",
 	"netlify-domain": "stremio-addons.netlify.app",
 	"page-title": "Stremio Community Addons List",
 	// images are located in ./resources/
